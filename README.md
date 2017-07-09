@@ -1,6 +1,6 @@
 # Modification of part of a list, in place, as a whole.
 
-This code is semantically equivalent to the application of *over* on *partsOf* from the astouding Control.Lens.
+This code is semantically equivalent to the application of *over* on *partsOf* from the great Control.Lens.
 
 Aside being free of dependencies, the main feature is the possibility of changing the type by remapping everything to Either
 
